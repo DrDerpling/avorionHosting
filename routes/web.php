@@ -20,4 +20,5 @@ Auth::routes();
 Route::middleware('auth')->group(function () {
     Route::get('dashboard', 'HomeController@index');
     Route::get('start-server', 'HomeController@startServer');
+    Route::get('kill-server', 'HomeController@kilServer');
 });
