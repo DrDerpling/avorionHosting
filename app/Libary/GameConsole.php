@@ -5,6 +5,7 @@ namespace App\Libary;
 
 
 use App\Sanitizers\CommandSantizer;
+use Illuminate\Support\Facades\Storage;
 
 class GameConsole
 {
@@ -108,7 +109,12 @@ class GameConsole
     public function stopServer(): GameState
     {
         $this->sendCommandToServer('stop', false);
-        print_r(exec(' > /home/dlindeboom/projects/avorionHosting/storage/avorion/server.log'));
+        sleep(2);
+        $disk = Storage::disk('avorion');
+
+        if ($disk->exists('./server.log')) {
+            $disk->delete('./server.log');
+        }
 
         if ($this->gameState->checkIfRunning()) {
             $this->gameState->setError('Server is still running');
