@@ -55,6 +55,11 @@ return [
             'visibility' => 'public',
         ],
 
+        'avorion' => [
+            'driver' => 'local',
+            'root' => storage_path('avorion'),
+        ],
+
         's3' => [
             'driver' => 's3',
             'key' => env('AWS_ACCESS_KEY_ID'),

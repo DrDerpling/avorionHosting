@@ -1475,7 +1475,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function handle($input, $output = null)
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         return $instance->handle($input, $output);
         }
@@ -1490,7 +1490,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function terminate($input, $status)
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         $instance->terminate($input, $status);
         }
@@ -1505,7 +1505,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function command($signature, $callback)
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         return $instance->command($signature, $callback);
         }
@@ -1519,7 +1519,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function registerCommand($command)
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         $instance->registerCommand($command);
         }
@@ -1536,7 +1536,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function call($command, $parameters = array(), $outputBuffer = null)
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         return $instance->call($command, $parameters, $outputBuffer);
         }
@@ -1551,7 +1551,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function queue($command, $parameters = array())
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         return $instance->queue($command, $parameters);
         }
@@ -1564,7 +1564,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function all()
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         return $instance->all();
         }
@@ -1577,7 +1577,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function output()
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         return $instance->output();
         }
@@ -1590,7 +1590,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function bootstrap()
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         $instance->bootstrap();
         }
@@ -1604,7 +1604,7 @@ namespace Illuminate\Support\Facades {
          */ 
         public static function setArtisan($artisan)
         {
-            //Method inherited from \Illuminate\Foundation\Console\Kernel            
+            //Method inherited from \Illuminate\Foundation\GameConsole\Kernel
                         /** @var \App\Console\Kernel $instance */
                         $instance->setArtisan($artisan);
         }

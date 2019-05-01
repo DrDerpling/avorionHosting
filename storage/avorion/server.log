@@ -1,222 +1,6 @@
-Enabled Traces: 
-Avorion server Beta 0.21.4 r15001 f6df26378b38 running on Ubuntu 18.04.2 LTS starting up in "galaxies/Ygdrasil"
-CPU: Westmere E56xx/L56xx/X56xx (Nehalem-C) 2 Cores
-RAM: 3GB
-name: ygdrasil
-seed: -p908uyt3gf4wreq -9p278u43yqrt
-port: 27000
-max online players: 4
-save interval: 300
-broadcast interval: 5
-max loaded sector time: 300
-weak update: yes
-worker threads: 3
-generator threads: 2
-script background threads: 2
-difficulty: Difficult
-infiniteResources: no
-collision: 0.2
-access list: Blacklist
-public: yes
-authentication: yes
-listed: yes
-steam networking: yes
-send crash reports: yes
-administrators: 'admin' 
-Initializing sector database...
-Initializing faction database...
-Error loading index: index 2 is already taken
-Reconstructing index from files.
-Found potential player in file  "galaxies/Ygdrasil/players/player_26.dat.1"
-Found player  dchy with index  26 and steam id  76561198891279422. Adding player to index.
-Found potential player in file  "galaxies/Ygdrasil/players/player_52.dat.5"
-Found player  Callsign Gas Chamber with index  52 and steam id  76561198154052968. Adding player to index.
-Found potential player in file  "galaxies/Ygdrasil/players/player_13.dat.1"
-Found player  yvette_campos with index  13 and steam id  76561198406749342. Adding player to index.
-Found potential player in file  "galaxies/Ygdrasil/players/player_24.dat.3"
-Found player  Dr Hazy Tenuous with index  24 and steam id  76561197986340570. Adding player to index.
-Found potential player in file  "galaxies/Ygdrasil/players/player_1.dat.0"
-Found player  Drumroll with index  1 and steam id  76561198005089768. Adding player to index.
-Found potential player in file  "galaxies/Ygdrasil/players/player_10.dat.5"
-Found player  Xeiss with index  10 and steam id  76561197988677156. Adding player to index.
-Found potential player in file  "galaxies/Ygdrasil/players/player_23.dat.1"
-Found player  Templorum with index  23 and steam id  76561198024059920. Adding player to index.
-Found potential player in file  "galaxies/Ygdrasil/players/player_3.dat.1"
-Found player  yvette_campos with index  3 and steam id  76561198406749342. Player is a duplicate. Player with index  3 is older, replacing previous.
-Found potential player in file  "galaxies/Ygdrasil/players/player_23.dat.2"
-Found player  Templorum with index  23 and steam id  76561198024059920. Player is a duplicate. Player with index  23 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_2.dat.0"
-Found player  Xeiss with index  2 and steam id  76561197988677156. Player is a duplicate. Player with index  2 is older, replacing previous.
-Found potential player in file  "galaxies/Ygdrasil/players/player_1.dat.5"
-Found player  Drumroll with index  1 and steam id  76561198005089768. Player is a duplicate. Player with index  1 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_3.dat.5"
-Found player  Drderpling with index  3 and steam id  76561197998797592. Adding player to index.
-Found potential player in file  "galaxies/Ygdrasil/players/player_1.dat.4"
-Found player  Drumroll with index  1 and steam id  76561198005089768. Player is a duplicate. Player with index  1 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_26.dat.3"
-Found player  dchy with index  26 and steam id  76561198891279422. Player is a duplicate. Player with index  26 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_26.dat.2"
-Found player  dchy with index  26 and steam id  76561198891279422. Player is a duplicate. Player with index  26 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_24.dat.4"
-Found player  Dr Hazy Tenuous with index  24 and steam id  76561197986340570. Player is a duplicate. Player with index  24 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_1.dat.2"
-Found player  Drumroll with index  1 and steam id  76561198005089768. Player is a duplicate. Player with index  1 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_10.dat.4"
-Found player  Xeiss with index  10 and steam id  76561197988677156. Player is a duplicate. Player with index  10 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_10.dat.3"
-Found player  Xeiss with index  10 and steam id  76561197988677156. Player is a duplicate. Player with index  10 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_52.dat.3"
-Found player  Callsign Gas Chamber with index  52 and steam id  76561198154052968. Player is a duplicate. Player with index  52 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_26.dat.5"
-Found player  dchy with index  26 and steam id  76561198891279422. Player is a duplicate. Player with index  26 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_6.dat.0"
-Found player  dchy with index  6 and steam id  76561198891279422. Player is a duplicate. Player with index  6 is older, replacing previous.
-Found potential player in file  "galaxies/Ygdrasil/players/player_1.dat.3"
-Found player  Drumroll with index  1 and steam id  76561198005089768. Player is a duplicate. Player with index  1 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_52.dat.1"
-Found player  Callsign Gas Chamber with index  52 and steam id  76561198154052968. Player is a duplicate. Player with index  52 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_52.dat.4"
-Found player  Callsign Gas Chamber with index  52 and steam id  76561198154052968. Player is a duplicate. Player with index  52 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_10.dat.1"
-Found player  Xeiss with index  10 and steam id  76561197988677156. Player is a duplicate. Player with index  10 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_7.dat.0"
-Found player  Drderpling with index  7 and steam id  76561197998797592. Player is a duplicate. Player with index  7 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_8.dat.0"
-Found player  Callsign Gas Chamber with index  8 and steam id  76561198154052968. Player is a duplicate. Player with index  8 is older, replacing previous.
-Found potential player in file  "galaxies/Ygdrasil/players/player_3.dat.3"
-Found player  Drderpling with index  3 and steam id  76561197998797592. Player is a duplicate. Player with index  3 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_52.dat.2"
-Found player  Callsign Gas Chamber with index  52 and steam id  76561198154052968. Player is a duplicate. Player with index  52 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_24.dat.5"
-Found player  Dr Hazy Tenuous with index  24 and steam id  76561197986340570. Player is a duplicate. Player with index  24 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_26.dat.4"
-Found player  dchy with index  26 and steam id  76561198891279422. Player is a duplicate. Player with index  26 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_3.dat.2"
-Found player  Drderpling with index  3 and steam id  76561197998797592. Player is a duplicate. Player with index  3 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_4.dat.1"
-Found player  Templorum with index  4 and steam id  76561198024059920. Player is a duplicate. Player with index  4 is older, replacing previous.
-Found potential player in file  "galaxies/Ygdrasil/players/player_24.dat.1"
-Found player  Dr Hazy Tenuous with index  24 and steam id  76561197986340570. Player is a duplicate. Player with index  24 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_5.dat.0"
-Found player  Dr Hazy Tenuous with index  5 and steam id  76561197986340570. Player is a duplicate. Player with index  5 is older, replacing previous.
-Found potential player in file  "galaxies/Ygdrasil/players/player_3.dat.4"
-Found player  Drderpling with index  3 and steam id  76561197998797592. Player is a duplicate. Player with index  3 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_4.dat.0"
-Found player  Templorum with index  4 and steam id  76561198024059920. Player is a duplicate. Player with index  4 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_10.dat.2"
-Found player  Xeiss with index  10 and steam id  76561197988677156. Player is a duplicate. Player with index  10 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_3.dat.0"
-Found player  yvette_campos with index  3 and steam id  76561198406749342. Player is a duplicate. Player with index  3 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_24.dat.2"
-Found player  Dr Hazy Tenuous with index  24 and steam id  76561197986340570. Player is a duplicate. Player with index  24 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_1.dat.1"
-Found player  Drumroll with index  1 and steam id  76561198005089768. Player is a duplicate. Player with index  1 is younger, skipping.
-Found potential player in file  "galaxies/Ygdrasil/players/player_7.dat.1"
-Found player  Drderpling with index  7 and steam id  76561197998797592. Player is a duplicate. Player with index  7 is younger, skipping.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000864.dat"
-Found faction  The Galactic Church of Aef'omne with index  2000864. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001067.dat"
-Found faction  The Oeow/*This refers to factions, such as 'The Xsotan'.*/ with index  2001067. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000787.dat"
-Found faction  The Republic of Hauc'oemboecw with index  2000787. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_17.dat"
-Found faction  The Feuceuccouj Pirates with index  17. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001468.dat"
-Found faction  The Uyeasyo'/*This refers to factions, such as 'The Xsotan'.*/ with index  2001468. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001046.dat"
-Found faction  The Ievheeq/*This refers to factions, such as 'The Xsotan'.*/ with index  2001046. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000108.dat"
-Found faction  The Bexue Emirate with index  2000108. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001203.dat"
-Found faction  The Lkaebkoi Pirates with index  2001203. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000226.dat"
-Found faction  The Iieibjeiz/*This refers to factions, such as 'The Xsotan'.*/ with index  2000226. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000859.dat"
-Found faction  The Oaveoj Commonwealth with index  2000859. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_78.dat"
-Found faction  The Uqniw Pirates with index  78. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_48.dat"
-Found faction  Kuobovdaed with index  48. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_59.dat"
-Found faction  Buowidis with index  59. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000972.dat"
-Found faction  The Uabduay'deu/*This refers to factions, such as 'The Xsotan'.*/ with index  2000972. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001192.dat"
-Found faction  The Uu/*This refers to factions, such as 'The Xsotan'.*/ with index  2001192. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001257.dat"
-Found faction  The Gaiup Commonwealth with index  2001257. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001053.dat"
-Found faction  The Democratic States of Oui with index  2001053. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001166.dat"
-Found faction  The Kingdom of Xoegoevoum with index  2001166. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_79.dat"
-Found faction  The Weeeejon' Pirates with index  79. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_55.dat"
-Found faction  Ue with index  55. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_11.dat"
-Found faction  Woioqi with index  11. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_47.dat"
-Found faction  Seuonl with index  47. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001668.dat"
-Found faction  The Pirates of Cuyewwouh with index  2001668. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001549.dat"
-Found faction  The Exgiucx Church with index  2001549. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_82.dat"
-Found faction  Ikitio with index  82. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_41.dat"
-Found faction  The Haatii with index  41. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_49.dat"
-Found faction  Auaut with index  49. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001267.dat"
-Found faction  The Liaeafdke/*This refers to factions, such as 'The Xsotan'.*/ with index  2001267. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001735.dat"
-Found faction  The Democratic Voiwwoigh Followers with index  2001735. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001548.dat"
-Found faction  The Democratic Guild of Rieqao with index  2001548. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001410.dat"
-Found faction  The Lokzo'/*This refers to factions, such as 'The Xsotan'.*/ with index  2001410. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000267.dat"
-Found faction  The United Collective of Mzaa'ii' with index  2000267. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000449.dat"
-Found faction  The Alliance of Weu'faun with index  2000449. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_25.dat"
-Found faction  The Kianguip Pirates with index  25. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_66.dat"
-Found faction  Oiwmee with index  66. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_54.dat"
-Found faction  Comkao with index  54. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000185.dat"
-Found faction  The Giesie/*This refers to factions, such as 'The Xsotan'.*/ with index  2000185. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_71.dat"
-Found faction  The Naavpii Pirates with index  71. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001473.dat"
-Found faction  The States of Guwi with index  2001473. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001478.dat"
-Found faction  The Emirate of Hzuizvrue with index  2001478. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_8.dat"
-Found faction  Bottan's Smugglers with index  8. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001404.dat"
-Found faction  The Wajieaox Kingdom with index  2001404. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_38.dat"
-Found faction  Eaik'eiq with index  38. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_6.dat"
-Found faction  The Naibew Pirates with index  6. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_30.dat"
-Found faction  The Iahdhia Pirates with index  30. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000137.dat"
-Found faction  The Voain'/*This refers to factions, such as 'The Xsotan'.*/ with index  2000137. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_28.dat"
-Found faction  The Ekeag Pirates with index  28. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000320.dat"
-Found faction  The Universal Estaifje' Followers with index  2000320. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_72.dat"
-Found faction  Dit'uuuud with index  72. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_15.dat"
-Found faction  The Yjo'umueh Pirates with index  15. Adding faction to index.
-Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001574.dat"
+[ server.sh: 2019-05-01 20:53:30 ]
 Found faction  The United Syndicate of Od'iuv with index  2001574. Adding faction to index.
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001364.dat"
-[ server.sh: 2019-04-28 21:07:49 ]
 Found faction  The Iauoub Dominion with index  2001364. Adding faction to index.
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_12.dat"
 Found faction  The Makyeua Pirates with index  12. Adding faction to index.
@@ -256,6 +40,7 @@ Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000511.dat
 Found faction  The Corporation of Aefuz with index  2000511. Adding faction to index.
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000610.dat"
 Found faction  The Aovoo'/*This refers to factions, such as 'The Xsotan'.*/ with index  2000610. Adding faction to index.
+/stop
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000649.dat"
 Found faction  The Mrihsev Church with index  2000649. Adding faction to index.
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001591.dat"
@@ -403,7 +188,6 @@ Found faction  The Depydiodwub/*This refers to factions, such as 'The Xsotan'.*/
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001507.dat"
 Found faction  The Ogioi Alliance with index  2001507. Adding faction to index.
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000732.dat"
-[ server.sh: 2019-04-28 21:07:50 ]
 Found faction  The Iweajli/*This refers to factions, such as 'The Xsotan'.*/ with index  2000732. Adding faction to index.
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_22.dat"
 Found faction  The Uijaf Pirates with index  22. Adding faction to index.
@@ -415,6 +199,7 @@ Found potential faction in file  "galaxies/Ygdrasil/factions/faction_69.dat"
 Found faction  Oewauoe with index  69. Adding faction to index.
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2000212.dat"
 Found faction  The Federation of Wuieoin with index  2000212. Adding faction to index.
+[ server.sh: 2019-05-01 20:53:31 ]
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_2001285.dat"
 Found faction  The Organisation of Fiuvae with index  2001285. Adding faction to index.
 Found potential faction in file  "galaxies/Ygdrasil/factions/faction_35.dat"
@@ -499,13 +284,38 @@ applicationmanager.cpp (4099) : Assertion Failed: m_vecInstallBaseFolders.Count(
 CApplicationManagerPopulateThread took 0 milliseconds to initialize (will have waited on CAppInfoCacheReadFromDiskThread)
 Unable to determine VR Path Registry filename
 Unable to determine VR Path Registry filename
-CreateBoundSocket: ::bind couldn't find an open port between 27020 and 27020
-SteamGameServer_Init call failed
-Error starting steam-based networking. Falling back to standard TCP/UDP protocols.
-ERROR starting networking: bind: Address already in use
-ERROR starting networking: bind: Address already in use
-Server startup FAILED.
-[ server.sh: 2019-04-28 21:07:51 ]
-[ server.sh: 2019-04-28 21:12:51 ]
-Triggered saving of all server data.
-[ server.sh: 2019-04-28 21:12:52 ]
+Setting breakpad minidump AppID = 445220
+Game Port: 27000
+Steam Port: 27021
+Steam Query Port: 27020
+Query Port: 27003
+
+Warning: No RCON password set. RCON disabled.
+FileSecurer: Found backup file "galaxies/Ygdrasil/server.dat~", trying to restore to "galaxies/Ygdrasil/server.dat"...Restoration failed.
+Server startup complete.
+[ server.sh: 2019-05-01 20:53:32 ]
+Server is shutting down.
+Saving settings...
+FileSecurer error: Error copying file from "galaxies/Ygdrasil/server.dat~" to "galaxies/Ygdrasil/server.dat.2": system:13; Permission denied
+FileSecurer error: Error copying file from "galaxies/Ygdrasil/server.dat~" to "galaxies/Ygdrasil/server.dat.2": system:13; Permission denied
+FileSecurer error: Error copying file from "galaxies/Ygdrasil/server.dat~" to "galaxies/Ygdrasil/server.dat.2": system:13; Permission denied
+FileSecurer error: Securing of file "galaxies/Ygdrasil/server.dat.2" failed, unable to move.
+Saving script values...
+Saving factions...
+Saving sectors...
+Saving jumping ships...
+Saving groups...
+Saving settings...
+waiting for unfinished sector generation jobs...
+waiting for unfinished sector save jobs...
+shutting down rcon...
+shutting down networking...
+[ server.sh: 2019-05-01 20:53:33 ]
+cleaning up communicators...
+waiting for unfinished sector generation jobs...
+waiting for unfinished sector save jobs...
+shutting down galaxy...
+shutting down faction database...
+shutting down sector database...
+cleaning up timers...
+Server shutdown successful.

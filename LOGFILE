@@ -1,0 +1,31 @@
+[1m[3m%[23m[1m[0m                                                                                k..vorionHosting\[0m[23m[24m[J[01;32m➜  [36mavorionHosting[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl lls[?1l>[?2004l
+kls\[0m[01;34mapp[0m            [01;34mconfig[0m           [01;32mpackage.json[0m  [01;32mserver.php[0m      [01;32myarn.lock[0m
+[01;32martisan[0m        [01;34mdatabase[0m         [01;32mphpunit.xml[0m   [01;34mstorage[0m
+[01;34mbootstrap[0m      _ide_helper.php  [01;34mpublic[0m        [01;34mtests[0m
+[01;32mcomposer.json[0m  LOGFILE          [01;34mresources[0m     [01;34mvendor[0m
+[01;32mcomposer.lock[0m  [01;34mnode_modules[0m     [01;34mroutes[0m        [01;32mwebpack.mix.js[0m
+[1m[3m%[23m[1m[0m                                                                                k..vorionHosting\[0m[23m[24m[J[01;32m➜  [36mavorionHosting[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsscreen -rls  l  ls[?1l>[?2004l
+kscreen\There are screens on:
+        22693.test      (05/01/2019 03:33:48 PM)        (Attached)
+        22632.test      (05/01/2019 03:33:31 PM)        (Attached)
+2 Sockets in /run/screen/S-dlindeboom.
+[1m[3m%[23m[1m[0m                                                                                k..vorionHosting\[0m[23m[24m[J[01;32m➜  [36mavorionHosting[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hscreen -ls  R scr   test[?1l>[?2004l
+kscreen\There are screens on:
+        22693.test      (05/01/2019 03:33:48 PM)        (Attached)
+        22632.test      (05/01/2019 03:33:31 PM)        (Attached)
+)0[?1049h[4l[?1h=[0m(B[1;24r[H[J[H[J[23B[3mNew screen...[23m                 [H[1m[3m%[23m[0m[1m[0m                                                                                [H[J[1m[32m➜  [36mavorionHosting[0m [1m[34mgit:([31mmaster[34m) [33m✗[0m [K
+[1m[3m%[23m[0m[1m[0m                                                                                [J[1m[32m➜  [36mavorionHosting[0m [1m[34mgit:([31mmaster[34m) [33m✗[0m [K;;l;  screen -R test[14D              [14Deexit
+[?1l>[24;1H
+[?1049l[screen is terminating]
+[1m[3m%[23m[1m[0m                                                                                k..vorionHosting\[0m[23m[24m[J[01;32m➜  [36mavorionHosting[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hscreen -R test     ls[?1l>[?2004l
+kscreen\There are screens on:
+        22693.test      (05/01/2019 03:33:48 PM)        (Attached)
+        22632.test      (05/01/2019 03:33:31 PM)        (Attached)
+2 Sockets in /run/screen/S-dlindeboom.
+[1m[3m%[23m[1m[0m                                                                                k..vorionHosting\[0m[23m[24m[J[01;32m➜  [36mavorionHosting[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hscreen -ls  r test[?1l>[?2004l
+kscreen\There are screens on:
+        22693.test      (05/01/2019 03:33:47 PM)        (Attached)
+        22632.test      (05/01/2019 03:33:30 PM)        (Attached)
+There is no screen to be resumed matching test.
+[1m[3m%[23m[1m[0m                                                                                k..vorionHosting\[0m[23m[24m[J[01;31m➜  [36mavorionHosting[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hscreen -r test    22        s  eexit[?1l>[?2004l
+kexit\

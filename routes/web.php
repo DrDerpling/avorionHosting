@@ -18,7 +18,12 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::middleware('auth')->group(function () {
-    Route::get('dashboard', 'HomeController@index');
-    Route::get('start-server', 'HomeController@startServer');
-    Route::get('kill-server', 'HomeController@kilServer');
+    Route::get('dashboard', 'DashboardController@index');
+    Route::get('console/get/{lines?}', 'ConsoleController@getConsoleOutput');
+
+    Route::get('server/status', 'ServerController@serverStatus');
+    Route::post('server/start', 'ServerController@startServer');
+    Route::post('server/command', 'ServerController@sendCommandToServer');
+    Route::delete('server/kill', 'ServerController@forceKilServer');
+    Route::delete('server/stop', 'ServerController@stopServer');
 });
